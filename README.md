@@ -3,7 +3,7 @@
 A full-stack web application enabling CRUD operations for employee data — add, view, edit, and remove employee records — built for learning or organizational use.
 
 # Screenshots
-![Login Page:-](./public/image.png)
+![Login Page:-](./public/Login.png)
 ![Admin Page:-](./public/Admin.png)
 ![Employee Page:-](./public/Employee.png)
 
